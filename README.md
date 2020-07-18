@@ -18,13 +18,14 @@
     <br>
     <br>
     <i> 
-    <p>Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general;</p>
+   Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general;
+      
+<br>
+    I have been doing competitive programming over the past one year and have come across different data structures and algorithms and have been very well equiped with those;
 
-    <p>I have been doing competitive programming over the past one year and have come across different data structures and algorithms and have been very well equiped with those;</p>
+    <br>Recently I have been exploring QT frameworks for cross platform software development using C++ and also trying to get a good grasp on Web development using MERN stack;
 
-    <p>Recently I have been exploring QT frameworks for cross platform software development using C++ and also trying to get a good grasp on Web development using MERN stack;</p>
-
-<p>Apart from coding you will find me doing sketching, binge-watching Web series, chilling with friends or shopping.</p>
+<br>Apart from coding you will find me doing sketching, binge-watching Web series, chilling with friends or shopping.
 
 </i>
 </p>
