@@ -14,7 +14,7 @@
 <hr>
 
 <p align='center'> 
-    <h4> I am currently doing competitive programming and have done frontend development.<h4>
+    <h4 align='center'> I am currently doing competitive programming and have done frontend development.</h4>
     <br>
     <br>
     <i> 
