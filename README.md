@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Sahil Gangurde aka lostmartian  🙋‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Sahil Gangurde aka lostmartian  🙋‍♂️💻 </h1>
 
 <p align='center'>
   I live in Pune, India and study at <b>Indian Institute of Information Technology, Gwalior</b> 
