@@ -18,7 +18,7 @@
     
   <br>
     
-   Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general.
+   <i align='center'>Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general.
       
 <br>
     I have been doing competitive programming over the past one year and have come across different data structures and algorithms and have been very well equiped with those.
