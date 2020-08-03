@@ -21,9 +21,6 @@
   I have been doing <b>competitive programming</b> over the past one year and have come across different <b>data structures and algorithms</b> and have been very well equiped with those.
 </p>
 
-<p align='center'>
-  Recently I have been exploring <b>QT frameworks</b> for cross platform software development using <b>C++</b> and also trying to get a good grasp on Web development using <b>MERN stack</b>.
-</p>
 
 <p align='center'>
   Apart from coding you will find me doing <b>sketching</b>, <b>binge-watching web series</b>, <b>chilling with friends</b> or <b>shopping</b>.
