@@ -1,4 +1,4 @@
-<h2>नमस्ते (Hi)🙏🏻, I'm Sahil Gangurde (lostmartian)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Hi)🙏🏻, I'm Sahil Gangurde (lostmartian)! <div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe">via GIPHY</a></p></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Sophomore student at <a href="http://www.iiitm.ac.in">Indian Institute of Information Technology, Gwalior</a>
 </em></p>
