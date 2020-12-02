@@ -1,4 +1,7 @@
-<h1 align='center'> Hi there , I'm Sahil Gangurde aka lostmartian  </h1>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Sahil Gangurde (lostmartian)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Sophomore student at<a href="http://www.iiitm.ac.in">Indian Institute of Information Technolog</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <p align='center'>
   I live in Pune, India and study at <b>Indian Institute of Information Technology, Gwalior</b> 
