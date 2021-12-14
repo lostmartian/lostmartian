@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostmartian&label=Profile%20views&color=0e75b6&style=flat" alt="lostmartian" /> </p>
 
-- 🔭 I’m currently working on **image quilting and texture synthesis**
+- 🔭 I’m currently working on **Texture synthesis and texture transfer**
 
 - 🌱 I’m currently learning **digital image processing, react and flask**
 
