@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostmartian&label=Profile%20views&color=0e75b6&style=flat" alt="lostmartian" /> </p>
 
-- 🔭 I’m currently working on **Texture synthesis and texture transfer**
+- 🔭 I’m currently working on **horizontally scaled chat application**
 
-- 🌱 I’m currently learning **digital image processing, react and flask**
+- 🌱 I’m currently learning **system design architechture**
 
 - 👨‍💻 All of my projects are available at [https://lostmartian.github.io](https://lostmartian.github.io)
 
 - 📝 I regularly write articles on [https://lostmartian.github.io/blog](https://lostmartian.github.io/blog)
 
-- 💬 Ask me about **information security, steganography, computer graphics**
+- 💬 Ask me about **information security, steganography, image processing**
 
 - 📫 How to reach me **sahilgangurde08@gmail.com**
 
