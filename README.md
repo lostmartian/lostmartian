@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Sahil&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Founding%20Full-Stack%20AI%20Engineer%20%7C%20Researcher%20%7C%20System%20Architect&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=Sahil&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Founding%20Full-Stack%20AI%20Engineer%20%7C%20Researcher%20%7C%20System%20Architect&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -8,15 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lostmartian/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5%20Stars-5b4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/lost_martian)
 
+
+
+##### I am a **Founding Full-Stack AI Engineer** based in **Pune, India**,<br> currently working as a founding engineer at stealth-mode AI solutions startup. <br>An alumnus of **IIIT Gwalior** with an **Integrated B.Tech & M.Tech**, I fuse deep academic research (Computer Vision, Steganography) with pragmatic, scalable system engineering.
+##### I specialize in **ML**, **Generative AI (LLMs/Agents)**, and **Backend Systems**. I thrive on solving complex architectural challenges.
 </div>
-
-<hr/>
-
-### 🚀 About Me
-I am a **Founding Full-Stack AI Engineer** based in **Pune, India**, currently building stealth-mode AI solutions from the ground up. An alumnus of **IIIT Gwalior** with an **Integrated B.Tech & M.Tech**, I fuse deep academic research (Computer Vision, Steganography) with pragmatic, scalable system engineering.
-
-I specialize in **ML**, **Generative AI (LLMs/Agents)**, and **Distributed Systems**. Whether it's architecting a disk-based database from scratch in Python or orchestrating microservices on AWS, I thrive on solving complex architectural challenges.
----
 
 ### 🛠️ Technical Arsenal
 
@@ -28,15 +24,13 @@ I specialize in **ML**, **Generative AI (LLMs/Agents)**, and **Distributed Syste
 | **💻 Full-Stack** | **Next.js**, React, TypeScript, ShadCN, HTML/CSS |
 | **🗄️ Databases** | PostgreSQL, MongoDB, Neo4j, Redis |
 
----
 
 ### 📊 Coding Statistics
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sahilgangurde?theme=radical&font=Ubuntu" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/sahilgangurde?theme=dark&font=Ubuntu&ext=contest" width="50%" height="50%" />
 </div>
 
----
 
 ### 👨‍🏫 Beyond Code
 * **Instructor:** Formerly mentored students in **DSA & Machine Learning**, helping them crack top tech placements.
