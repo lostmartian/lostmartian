@@ -33,19 +33,7 @@ I specialize in **ML**, **Generative AI (LLMs/Agents)**, and **Distributed Syste
 ### 📊 Coding Statistics
 
 <div align="center">
-  <a href="https://github.com/lostmartian">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=lostmartian&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/lostmartian">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostmartian&layout=compact&theme=radical&langs_count=6" />
-  </a>
-</div>
-
-<br clear="both"/>
-<br/>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/lostmartian?theme=radical&font=Ubuntu" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/sahilgangurde?theme=radical&font=Ubuntu" width="100%" />
 </div>
 
 ---
@@ -56,9 +44,5 @@ I specialize in **ML**, **Generative AI (LLMs/Agents)**, and **Distributed Syste
 * **Writer:** Authored technical deep-dives on Computer Vision and Data Structures for **GeeksforGeeks**.
 
 <div align="center">
-<br/>
-<i>"Why did the CSS file break up with HTML? It wanted more class! 💔"</i>
-<br/>
-<br/>
 <img src="https://komarev.com/ghpvc/?username=lostmartian&style=flat-square&color=blueviolet" alt="profile counter" />
 </div>
