@@ -10,8 +10,8 @@
 
 
 
-##### I am a **Founding Full-Stack AI Engineer** based in **Pune, India**,<br> currently working as a founding engineer at stealth-mode AI solutions startup. <br>An alumnus of **IIIT Gwalior** with an **Integrated B.Tech & M.Tech**, I fuse deep academic research (Computer Vision, Steganography) with pragmatic, scalable system engineering.
-##### I specialize in **ML**, **Generative AI (LLMs/Agents)**, and **Backend Systems**. I thrive on solving complex architectural challenges.
+#### I am a **Founding Full-Stack AI Engineer** based in **Pune, India**,<br> currently working as a founding engineer at stealth-mode AI solutions startup. <br>An alumnus of **IIIT Gwalior** with an **Integrated B.Tech & M.Tech**, I fuse deep academic research (Computer Vision, Steganography) with pragmatic, scalable system engineering.
+#### I specialize in **ML**, **Generative AI (LLMs/Agents)**, and **Backend Systems**. I thrive on solving complex architectural challenges.
 </div>
 
 ### 🛠️ Technical Arsenal
