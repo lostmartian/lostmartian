@@ -12,15 +12,3 @@ Be whole in spirit, fierce and clear,
 Live without guise, without false fear.  
 For a life well-built on honest ground  
 Is where true completeness is found.  
-
-                      _.-'''''-._
-                    .'  _     _  '.
-                   /   (_)   (_)   \
-                  |  .------------. |
-                  |  |   HELLO    | |
-                 /   |            |  \
-                |    '------------'   |
-                |    /\           /\  |
-                 \  /  \  _.-._  /  \/'
-                  '.   _.-'   '-._  .'
-                    '-'           '-'
